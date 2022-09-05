@@ -1,0 +1,10 @@
+[Adblock Plus 2.0]
+! Version: 202209051804
+! Title: Custom Filter List
+! Last modified:
+! Expires: 5 days (update frequency)
+! Homepage:
+!
+! --- Unternehmensweite Filterregeln ---
+||youtube.com^$3p,frame,redirect=click2load.html
+||youtube-nocookie.com^$3p,frame,redirect=click2load.html
