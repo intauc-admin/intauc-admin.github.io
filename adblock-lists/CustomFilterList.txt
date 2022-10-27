@@ -8,3 +8,6 @@
 ! --- Unternehmensweite Filterregeln ---
 ||youtube.com^$3p,frame,redirect=click2load.html
 ||youtube-nocookie.com^$3p,frame,redirect=click2load.html
+! --- ITSM-11577 ---
+@@||atl-paas.net^$script,domain=intop01.atlassian.net
+@@||atl-paas.net^$other,domain=intop01.atlassian.net
