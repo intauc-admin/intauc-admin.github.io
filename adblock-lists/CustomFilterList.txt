@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Version: 202210271130
+! Version: 202311171000
 ! Title: Custom Filter List
-! Last modified: Thu, 27 Oct 2022 11:30:00 +0200
+! Last modified: Fr, 11 Nov 2023 10:00:00 +0200
 ! Expires: 5 days (update frequency)
 ! Homepage:
 !
