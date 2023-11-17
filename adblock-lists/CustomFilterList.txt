@@ -8,3 +8,4 @@
 ! --- Unternehmensweite Filterregeln ---
 ||youtube.com^$3p,frame,redirect=click2load.html
 ||youtube-nocookie.com^$3p,frame,redirect=click2load.html
+de.wikipedia.org##.wmde-banner-main
